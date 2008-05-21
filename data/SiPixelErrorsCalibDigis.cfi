@@ -5,6 +5,4 @@ module siPixelErrorsDigisToCalibDigis = SiPixelErrorsDigisToCalibDigis {
     string outputFilename = "myResults.root"
 }
 
-path siPixelErrorsDigisToCalibDigisPath = {siPixelErrorsDigisToCalibDigis}   
-
 
