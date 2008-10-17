@@ -1,8 +1,0 @@
-module siPixelErrorsDigisToCalibDigis = SiPixelErrorsDigisToCalibDigis { 
-
-    InputTag SiPixelProducerLabelTag = siPixelCalibDigis
-    untracked bool saveFile = true
-    string outputFilename = "myResults.root"
-}
-
-
