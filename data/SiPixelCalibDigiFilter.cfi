@@ -1,5 +1,0 @@
-module siPixelCalibDigiFilter = SiPixelCalibDigiFilter {
-    InputTag DetSetVectorSiPixelCalibDigiTag = siPixelCalibDigiProducer
-}
-
-path siPixelCalibDigiFilterPath = { siPixelCalibDigiFilter }
