@@ -1,6 +1,0 @@
-
-module siPixelFedFillerWordEventNumber = SiPixelFedFillerWordEventNumber { 
-   untracked string InputLabel = "source"
-   untracked string InputInstance = ""
-   bool SaveFillerWords = false
-}
